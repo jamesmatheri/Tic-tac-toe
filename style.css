@@ -58,7 +58,7 @@ body{
     font-weight: bolder;
 }
 
-.input-field{
+.game-board{
     width: 500px;
     height: 500px;
     display: flex;
@@ -76,7 +76,7 @@ body{
 }
 
 
-.input-field div{
+.square{
     width: 140px;
     height: 140px;
     background-color: #475569;
